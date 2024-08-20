@@ -64,6 +64,8 @@ git remote -v
 
 Pull requests is named because the original is pulling other people code into their main code. Thus, from the original author point of view, s/he is pulling other people code. Moreover, it is for security purpose or safety purpose, which allow the original author to review changes first before merging the code onto the original/main code.
 
+In forking, when we copy other code onto the github, the pull request will send to the original author, and the person that copy it.
+
 <!--TODO: This answer is SO wrong, I think we need to fix it! -->
 
 ### Create a local branch
